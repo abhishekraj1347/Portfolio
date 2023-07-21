@@ -2,4 +2,4 @@
 
 Personal Website made with the help of Html,Css,JavaScript
 
-<img width="944" alt="Screenshot 2022-10-05 233716" src="https://user-images.githubusercontent.com/92743622/194131207-0a1a27a0-0588-4acd-96a9-8fcd05321d08.png">
+<img width="857" alt="abhi(pic)" src="https://github.com/abhishekraj1347/Portfolio/assets/118063581/1026d532-ae48-4c97-a918-c4a2d5bdd666">
